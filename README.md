@@ -29,7 +29,7 @@
 
 [website]: https://ajmalvp.tk
 [linkedin]: https://www.linkedin.com/in/ajmal-vp-4108861b1
-[twitter]: https://twitter.com/AjmalVp20?s=09
+[twitter]: https://twitter.com/AjmalajuVp
 [instagram]: https://instagram.com/ajmal_aju_vp?igshid=1mo2q125wdve
 
 
