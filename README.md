@@ -21,7 +21,7 @@
 
 <img align="left" alt="ajmal Github Stats" src="https://github-readme-stats.vercel.app/api?username=ajmalaju57&show_icons=true&hide_border=true" />
 
-[website]: www.ajmalvp.ml
+[website]: https://www.ajmalvp.ml
 [linkedin]: https://linkedin.com/in/ajmalajuvp
 [twitter]: https://twitter.com/AjmalajuVp
 [instagram]: https://instagram.com/ajmal_aju_vp?igshid=1mo2q125wdve
