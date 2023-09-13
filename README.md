@@ -17,8 +17,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/ajmalajuvp
-[twitter]: https://twitter.com/AjmalajuVp
+[linkedin]:https://in.linkedin.com/in/ajmalvp?trk=people-guest_people_search-card
 [instagram]: https://instagram.com/ajmal_aju_vp?igshid=1mo2q125wdve
 
 
