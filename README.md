@@ -4,8 +4,7 @@
   
 ### Connect with me:
 
-[<img align="left" alt="webcifar | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" herf="www.linkedin.com/in/
-www.linkedin.com/in/ajmalvp" />][linkedin]
+[<img align="left" alt="webcifar | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" herf="https://www.linkedin.com/in/ajmalvp/" />][linkedin]
 [<img align="left" alt="webcifar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" herf="https://instagram.com/ajmal_aju_vp?igshid=1mo2q125wdve" />][instagram]
 
 <br />
